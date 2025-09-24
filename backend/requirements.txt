@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+pymongo
+langchain
+transformers
+sentence-transformers
+pinecone-client
+google-cloud-translate
+python-jose[cryptography]
+requests
+python-multipart
