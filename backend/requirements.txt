@@ -2,6 +2,16 @@ fastapi
 uvicorn[standard]
 pydantic
 python-dotenv
+pypdf
+langchain
+huggingface-hub
+transformers
+sentence-transformers
+pinecone-client
+google-cloud-translate
+python-jose[cryptography]
+requests
+python-multipart
 pymongo
 langchain
 transformers
